@@ -5,11 +5,11 @@ For start you should write a prompt.
 ```py
 prompt = "sprite for 2D game, a star, 8-bit style"
 ```
-Image will be generated and you see that.
+Image will be generated and you see vector image.
 # Open-source
 Artifex2D is an open-source model, you can integrate it into your application or customize it for yourself.
 # Soon
-Soon Artifex was in Hugging Face!
+Soon Artifex will in Hugging Face!
 # Information
 name: Artifex2D
 
